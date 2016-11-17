@@ -3,6 +3,12 @@
 你可以使用[在线demo](http://h.nimingban.ml)    
 
 ##更新日志
+**v4.0**    
+优化搜索语句。    
+重写Google接口，使用Google Custom Search Api获取数据，需要到Google申请key并创建项目。    
+每个免费key每天限制100次查询（即100页数据）。    
+获取key并创建项目[可参考](http://www.cnblogs.com/yilongm/p/5508038.html)。    
+
 **v3.2**    
 优化搜索语句。    
 测试发现Google访问量大会要求输入验证码，待解决。     
